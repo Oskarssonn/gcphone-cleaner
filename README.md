@@ -1,2 +1,2 @@
 # gcphone-cleaner
-Tyhjentää gcphonen datan tietyn ajan välein
+Cleans up messages, tweets, etc. in configurable interval
